@@ -1,0 +1,9 @@
+*.raw
+*.tmp
+*.cast
+.env
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
